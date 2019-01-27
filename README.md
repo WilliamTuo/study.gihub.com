@@ -1,6 +1,5 @@
 ## C++ 程序设计（谭浩强）学习笔记
 
-You can use the [editor on GitHub](https://github.com/WilliamTuo/study.gihub.com/edit/master/README.md) 
 
 <html>
 <head>
