@@ -8,7 +8,7 @@
 <body>
 <h1>目录</h1>
 <ul>
-<li><a href="https://github.com/WilliamTuo/study.gihub.com/blob/master/C%2B%2B%E5%AD%A6%E4%B9%A0/C%2B%2B%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%B0%AD%E6%B5%A9%E5%BC%BA%EF%BC%89/extern%20%E5%A3%B0%E6%98%8E%E5%A4%96%E9%83%A8%EF%BC%88%E5%85%A8%E5%B1%80%EF%BC%89%E5%8F%98%E9%87%8F.html">用于字符输入的流成员函数</a></li>
+<li><a href="用于字符输入的流成员函数.html">用于字符输入的流成员函数</a></li>
 <li><a href="标准输入流.html">标准输入流</a></li>
 <li><a href="格式输出.html">格式输出</a></li>
 <li><a href="流带对象的成员函数使用案例.html">流带对象的成员函数使用案例</a></li>
