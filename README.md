@@ -1,7 +1,6 @@
 <html>
  <meta charset="utf-8">
     <body>
-        <div>
             <h1>学习笔记</h1>
             <br>
             <form action="/cgi/echoServer" method="GET" >
@@ -17,7 +16,6 @@
                     </ul>
                 </div>
             </form>
-        </div>
     </body>
 </html>
 
