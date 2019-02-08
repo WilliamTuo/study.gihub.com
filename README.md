@@ -1,39 +1,6 @@
 <html>
 <head>
  <meta charset="utf-8">
-        <title>学习笔记</title>
-        <style>
-            .body{
-                background-image:url(/tupian/bg.jpeg);
-                background-size:cover;
-                background-repeat:no-repeat;
-                padding-top:80px;
-            }
-            .head{
-                text-align: center;
-                font-weight:bold;
-                font-size:24px;
-                /*background-image:url(/tupian/td.jpg);*/
-                background-color:rgba(255,255,255,0.6);
-                background-repeat:no-repeat;
-                background-size:100% 100%;
-                -moz-background-size:100% 100%;
-                border-radius: 20px;
-                width: 600px;
-                height: 500px;
-                margin: auto;
-                position: absolute;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-            }
-            li
-            {
-                list-style:none;
-            }
-        </style>
-    </head>
     <body class="body">
         <div class="head"  >
             <br>
