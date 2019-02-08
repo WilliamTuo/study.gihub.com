@@ -1,8 +1,7 @@
 <html>
-<head>
  <meta charset="utf-8">
-    <body class="body">
-        <div class="head"  >
+    <body>
+        <div>
             <h1>学习笔记</h1>
             <br>
             <form action="/cgi/echoServer" method="GET" >
