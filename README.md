@@ -11,7 +11,7 @@
 <li><a href="http://60.205.188.244:8888">测试</a></li>
 <li><a href="标准输入流.html"></a></li>
 <li><a href="格式输出.html"></a></li>
-<li><a href="流带对象的成员函数使用案例.html">流带对象的成员函数使用案例</a></li>
+<li><a href="流带对象的成员函数使用案例.html"></a></li>
 <li><a href="标准输出流.html">标准输出流</a></li>
 <li><a href="纯虚函数.html">纯虚函数</a></li>
 <li><a href="多重继承引起的二义性问题.html">多重继承引起的二义性问题</a></li>
