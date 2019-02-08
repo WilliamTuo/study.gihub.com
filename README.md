@@ -28,7 +28,6 @@
                 right: 0;
                 bottom: 0;
             }
-
             li
             {
                 list-style:none;
