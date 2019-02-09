@@ -5,7 +5,7 @@
             <br>
                 <div >
                     <ul>
-                    <li><a href="http://60.205.188.244/:8888">编程基础</a></li>
+                    <li><a href="http://60.205.188.244:8888">编程基础</a></li>
                     <li><a href="">linux 学习笔记</a></li>
                     <li><a href="">课程笔记</a></li>
                     <li><a href="">网络笔记</a></li>
